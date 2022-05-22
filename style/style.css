@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+.container{
+    max-width: 100%;
+    margin: auto;
+}
+.header{
+    background: #FEC77E;
+    height: 100%;
+}
+.header_1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+.header_h1{
+    color: #CC2A41;
+}
+.header_p{
+    display: flex;
+}
+
+.call{
+    height: 35px;
+    display: flex;
+    background: #CC2A41;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    text-decoration: none;
+    width: 160px;
+    font-size: 14px;
+    color: rgb(236, 231, 231);
+}
+.kil{
+    border-bottom: 1px rgb(109, 109, 109) solid;
+}
+.zip{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.kil_p{
+    margin-left: 120px;
+    position: absolute;
+    padding-top: 70px;
+    color: #CC2A41;
+    font-size: 13px;
+}
+.kill{
+    font-size: 45px;
+    color: #CC2A41;
+    margin: auto;
+    text-align: center;
+}
+.img1 img{
+    width: 50px;
+}
+.img2 img{
+    width: 270px;
+    height: 220px;
+}
+.img3 img{
+    width: 300px;
+    height: 290px;
+}
+.dark{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 60px;
+}
+.dep{
+    text-align: center;
+    color: rgb(212, 0, 0);
+    margin-bottom: 50px;
+    font-size: 14px;
+}
+.aim{
+    padding-top: 130px;
+}
+.darkweb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.darkweb img{
+    width: 85px;
+    margin-left: 40px;
+}
+.h4{
+    margin-left: 20px;
+    font-weight: 900;
+    font-size: 10px;
+}
+.deep{
+    border: #d54358 1px solid;
+    width: 900px;
+    height: 250px;
+}
+
+.main_pin{
+    background: #ECE9E9
+    ;
+}
+.deep h1{
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.deep p{
+    max-width: 800px;
+    font-size: 12px;
+    margin: auto;
+}
+.zp img{
+    width: 400px;
+    height: 250px;
+}
+.just{
+    display: flex;
+    margin-top: -3px;
+}
+.wep{
+    background: #CC2A41;
+    height: 340px;
+}
+.wep1{
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    color: #ECE9E9;
+    padding-top: 10px;
+}
+.intro{
+    position: absolute;
+    z-index: 1;
+    color: white;
+    text-align: center;
+    margin-left: 400px;
+    padding-top: 90px;
+}
+.intro h1{
+    font-size: 50px;
+}
+.main_text{
+    background: #FEC77E;
+    height: 850px;
+}
+
+.titan{
+    background: url(../img/g) center/cover;
+    height: 450px;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.zip1{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+.zip1 h1{
+    font-size: 40px;
+}
+.mr{
+    color: #d54358;
+}
+.server{
+    margin-left: 60px;
+    color: #d54358;
+}
+.div{
+    text-align: center;
+}
+.just1 img{
+    width: 500px;
+    height: 300px;
+}
+.intro_pro{
+    display: flex;
+    justify-content: space-around;
+}
+.intro_main{
+    color: #f22140;
+}
+.intro_main h1{
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+.jas{
+    padding-top: 30px;
+    margin-left: 170px;
+}
+.fich{
+    background: #CC2A41;
+    height: 580px;
+}
+.just_h1 h1{
+    margin-bottom: 30px;
+    font-size: 50px;
+}
+.just_h1{
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 120px;
+    color: #ECE9E9;
+}
+.img5 img{
+    width: 280px;
+    height: 180px;
+    margin-bottom: 40px;
+}
+.img5{
+    display: flex;
+    justify-content: space-around;
+}
+.kil1{
+    margin-left: 100px;
+}
+.footer{
+    background: #FEC77E;
+    height: 550px;
+}
+.footer_h1{
+    text-align: center;
+    color: #d54358;
+    padding-top: 50px;
+    margin-bottom: 20px;
+}
+.footer_h1 h1{
+    font-size: 45px;
+}
+.kil5{
+    border-bottom: 1px rgb(109, 109, 109) solid;
+    width: 1140px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.p2{
+    color: #000;
+}
+.icon1{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin-bottom: 80px;
+}
+.icon{
+    color: #d11e38;
+}
+.icon i{
+    margin-bottom: 30px;
+    font-size: 35px;
+}
+.icon h1{
+    margin-bottom: 30px;
+}
+.icon2{
+    margin-bottom: 15px;
+}
+.intro_title{
+    text-align: center;
+}
